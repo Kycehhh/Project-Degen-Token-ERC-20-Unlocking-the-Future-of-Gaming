@@ -21,7 +21,7 @@ Degen Token is an ERC-20 token deployed on the Avalanche blockchain. This token 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/qeewpi/DegenToken.git
+   git clone https://github.com/Kycehhh/Project-Degen-Token-ERC-20-Unlocking-the-Future-of-Gaming.git
    cd DegenToken
    ```
 
