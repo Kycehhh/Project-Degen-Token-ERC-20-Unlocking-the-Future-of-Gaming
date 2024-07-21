@@ -75,7 +75,7 @@ npx hardhat help
 
 ## Authors
 
-- **Allen Kyle Sabilala** - [GitHub](https://github.com/Kycehhh)
+- **Allen Kyle Sabilala** - [ME](https://github.com/Kycehhh)
 
 ## License
 
